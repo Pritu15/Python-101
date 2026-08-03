@@ -1,0 +1,17 @@
+print("Hello")
+
+print("Pritu Dhar")
+print('Satyam')
+
+print(7)
+print(7.7)
+print(True)
+print("Hello",7,7.7,True,sep='|')
+print("Hello")
+print("world")
+print("Hello-world")
+print("Hello","world",sep='-')
+print("Hello",end="-")
+print("world")
+print("Whatever")
+print("7")
