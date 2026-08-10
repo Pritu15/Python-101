@@ -27,3 +27,18 @@ print(2 & 3)
 print(2 | 3)
 print(2 ^ 3)
 print(~3)
+
+#Membership operator
+
+print('D' in 'Day')
+print(1 in [2,3,4,5])
+
+#Assignment Operator
+
+a=4
+y=a
+a+=1
+
+print(y)
+print(a)
+
